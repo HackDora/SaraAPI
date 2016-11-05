@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HackDora/SaraAPI/issues"
   },
-  "homepage": "https://github.com/HackDora/SaraAPI#readme"
+  "homepage": "https://github.com/HackDora/SaraAPI#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
